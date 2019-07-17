@@ -3,7 +3,7 @@
 ## a.jithendra@gmail.com
 
 BSE NSE Data Python Webscraping from Moneycontrol 
-This code works with python 2.7 only. If you have python 3+ then change all the print statement syntax
+This code works with python 2.7 only. If you are using python 3+ then change all the print statement syntax
 Install the below python libraries as pre-requisite
 
 import requests
